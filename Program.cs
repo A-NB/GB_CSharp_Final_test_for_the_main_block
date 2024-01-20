@@ -13,7 +13,7 @@ class Program
     {
         Console.Clear();
         Console.WriteLine("Введите элементы массива через запятую:\nИсходный массив:");
-        string[] inputArray = Console.ReadLine().Split(',');
+        string[] inputArray = Console.ReadLine()!.Split(',');
         Console.WriteLine();
         Console.WriteLine(
             $"Итоговый массив:\n[{string.Join(

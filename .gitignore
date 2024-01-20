@@ -11,6 +11,10 @@
 *.suo
 *.user
 *.sln.docstates
+*.sln
+Algotythm.vsdx
+Финальная итоговая работа по основному блоку 20012024.jpg
+New.txt
 
 # Build results
 [Dd]ebug/
@@ -224,7 +228,3 @@ AppPackages/
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
-
-Algotythm.vsdx
-Финальная итоговая работа по основному блоку 20012024.jpg
-New.txt
